@@ -1,5 +1,7 @@
 # Djed-Solidity-WebDashboard
 
+
+
 Djed is a formally verified crypto-backed autonomous stablecoin protocol. To learn more, please check our **[gitbook docs](https://docs.djed.one/alliance/the-djed-alliance)**.
 
 This repository contains the complete source code for a frontend application designed to facilitate user interaction with deployments of a [Solidity implementation](https://github.com/DjedAlliance/Djed-Solidity) of the Djed protocol. 
